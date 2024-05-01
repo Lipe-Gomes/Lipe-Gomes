@@ -1,10 +1,12 @@
 ### Hello there!
 
-# My name is Felipe Gomes, a Computer Engineering student at São Carlos School of Engineering, University of São Paulo.
+My name is Gomes, Felipe Gomes.
 
-# I'm a member of Warthog Robotics
+I'm a Computer Engineering student at São Carlos School of Engineering, University of São Paulo.
 
-# I'm really into Electric and Electronics projects! 
+I'm a member of Warthog Robotics 🐗
+
+I'm really into Hardware projects! 
 <!--
 **Lipe-Gomes/Lipe-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
