@@ -6,7 +6,7 @@ I'm a Computer Engineering student at São Carlos School of Engineering, Univers
 
 I'm a member of Warthog Robotics 🐗
 
-I'm really into Hardware projects! 
+I'm really into hardware development! 
 <!--
 **Lipe-Gomes/Lipe-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
