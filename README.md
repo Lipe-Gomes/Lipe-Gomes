@@ -3,8 +3,6 @@
 My name is Felipe Gomes.
 
 I'm a Computer Engineering student at São Carlos School of Engineering, University of São Paulo.
-
-I'm a member of the Electronics Team of EESC-USP AeroDesign
  
 <!--
 **Lipe-Gomes/Lipe-Gomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
